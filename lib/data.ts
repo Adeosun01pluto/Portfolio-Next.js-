@@ -70,42 +70,24 @@ export const experiencesData = [
 ] as const;
 
 export const projectsData = [
-  // {
-  //   title: "CorpComment",
-  //   description:
-  //     "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-  //   tags: ["React", "Next.js", "MongoDB", "Tailwind CSS", "Prisma"],
-  //   imageUrl: corpcommentImg,
-  // },
-  // {
-  //   title: "rmtDev",
-  //   description:
-  //     "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-  //   tags: ["React", "TypeScript", "Next.js", "Tailwind CSS", "Redux"],
-  //   imageUrl: rmtdevImg,
-  // },
-  // {
-  //   title: "Word Analytics",
-  //   description:
-  //     "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-  //   tags: ["React", "Next.js", "SQL", "Tailwind CSS", "Framer"],
-  //   imageUrl: wordanalyticsImg,
-  // },
   {
+    link:"https://ischolar-cfed0.web.app ",
     title: "Ischolar",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+      "An Educational web app for jamb students to practice questions with well detailed answers. Also it includes question and answer section ",
     tags: ["React.js", "Node.js", "Tailwind CSS", "MongoDB"],
     imageUrl: ischolar,
   },
   {
+    link:"https://threads-red-beta.vercel.app ",
     title: "Threads",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+      "A public web app for intellectuals to connect and share ideas .",
     tags: ["Next.js", "Tailwind CSS", "MongoDB"],
     imageUrl: threads,
   },
   {
+    link:"https://coinbase-ruby.vercel.app",
     title: "Coinbase",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
@@ -113,27 +95,31 @@ export const projectsData = [
     imageUrl: coinbase,
   },
   {
+    link:"https://hilink-seven.vercel.app",
     title: "Hilink",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React.js", "Tailwind CSS"],
+      "Welcome to Hilink, where the spirit of adventure meets the comfort of seamless planning. ",
+    tags: ["React.js", "Next.js", "Tailwind CSS", "TypeScript"],
     imageUrl: hilink,
   },
   {
+    link:"https://travellers-rouge.vercel.app ",
     title: "Ravel",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+      "This is a travel website for people who love to travel.",
     tags: ["React.js", "Tailwind CSS"],
     imageUrl: travel,
   },
   {
+    link:"https://educare-khaki.vercel.app",
     title: "Educare",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+      "EduConnect Hub📚, an innovative educational landing page designed to bridge the gap between students and learning resources. ",
     tags: ["React.js", "Tailwind CSS"],
     imageUrl: educare,
   },
   {
+    link:"https://portfolio-7ti7.vercel.app/",
     title: "Portfolio",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",

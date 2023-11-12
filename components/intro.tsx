@@ -78,7 +78,8 @@ export default function Intro() {
         }}
       >
         <Link
-          href="#contact"
+          href="https://api.whatsapp.com/send?phone=2347040877605"
+          target="blank"
           className="group bg-gray-900 text-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 hover:bg-gray-950 active:scale-105 transition"
           onClick={() => {
             setActiveSection("Contact");
