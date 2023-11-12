@@ -10,6 +10,7 @@ import hilink from "@/public/hilink.png";
 import ischolar from "@/public/ischolar.png";
 import threads from "@/public/threads.png";
 import tiktak from "@/public/tiktak.png";
+import travel from "@/public/travel.png";
 import growdata from "@/public/growdata.png";
 import portfolio from "@/public/portfolio.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
@@ -117,6 +118,13 @@ export const projectsData = [
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["React.js", "Tailwind CSS"],
     imageUrl: hilink,
+  },
+  {
+    title: "Ravel",
+    description:
+      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+    tags: ["React.js", "Tailwind CSS"],
+    imageUrl: travel,
   },
   {
     title: "Educare",
