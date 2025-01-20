@@ -13,6 +13,10 @@ import tiktak from "@/public/tiktak.png";
 import travel from "@/public/travel.png";
 import growdata from "@/public/growdata.png";
 import portfolio from "@/public/portfolio.png";
+import jhay from "@/public/jhay.png";
+import oj from "@/public/oj.png";
+import royal from "@/public/royal.png";
+import fleet from "@/public/fleet.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
 
 export const links = [
@@ -53,7 +57,7 @@ export const experiencesData = [
   },
   {
     title: "Front-End Developer",
-    location: "Orlando, FL",
+    location: "Surulere, LG",
     description:
       "I worked as a front-end developer for 1 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
     icon: React.createElement(CgWorkAlt),
@@ -101,6 +105,34 @@ export const projectsData = [
       "Welcome to Hilink, where the spirit of adventure meets the comfort of seamless planning. ",
     tags: ["React.js", "Next.js", "Tailwind CSS", "TypeScript"],
     imageUrl: hilink,
+  },
+  {
+    "link": "https://jhayexchange.netlify.app",
+    "title": "Jhay Exchange",
+    "description": "Jhay Exchange facilitates fast and secure local peer-to-peer (P2P) transactions, ensuring a seamless and efficient way to exchange goods and services.",
+    "tags": ["React.js", "Tailwind CSS", "Firebase"],
+    "imageUrl": jhay
+  },
+  {
+    "link": "https://fleetfix.netlify.app",
+    "title": "Fleet Tracker",
+    "description": "Fleet Tracker is a web application designed to monitor and manage fleets such as cars, trucks, and other vehicles, including repair schedules and operational efficiency.",
+    "tags": ["React.js", "Tailwind CSS", "Firebase"],
+    "imageUrl": fleet
+  },
+  {
+    "link": "https://ojlaundry.netlify.app/",
+    "title": "Oj Laundry",
+    "description": "Oj Laundry is a platform for users to book laundry services, schedule pickups, and deliveries, making it convenient to manage clothing care.",
+    "tags": ["React.js", "Tailwind CSS", "Firebase"],
+    "imageUrl": oj
+  },
+  {
+    "link": "https://shoppsavvy.netlify.app",
+    "title": "ShopSavvy",
+    "description": "ShopSavvy is a private dashboard for workers and administrators to efficiently manage inventory, track goods, and oversee operations.",
+    "tags": ["React.js", "Tailwind CSS", "Firebase"],
+    "imageUrl": royal
   },
   {
     link:"https://travellers-rouge.vercel.app ",
